@@ -5,7 +5,7 @@
 //* 2.) download nodejs
 
 //* request - response
-//* Use SERVER for request ve response. our first modules HTTP MODULE.
+//* Use SERVER for request and response. our first modules HTTP MODULE.
 //* write "node index.js" to terminal for work
 
 //! HTTP MODULE use
