@@ -1,7 +1,6 @@
 //! 1. Lesson with Youtube video
 
 //* DOWNLOAD
-//* 1.) Before i use "Better Comments extention" for my comments lines
 //* 2.) download nodejs
 
 //* request - response
